@@ -21,3 +21,4 @@ sysinfo.txt
 *.apk
 *.aab
 .DS_Store
+Logs/
