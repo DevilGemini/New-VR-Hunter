@@ -205,7 +205,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4007291449629790, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -16.84
+      value: -17
       objectReference: {fileID: 0}
     - target: {fileID: 4007291449629790, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1740,6 +1740,10 @@ PrefabInstance:
     - {fileID: 1925367431000826, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
     - {fileID: 1969952868885734, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
     - {fileID: 1045524734368606, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
+    - {fileID: 1607680110437028, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
+    - {fileID: 1725637405239374, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
+    - {fileID: 1752076511299378, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
+    - {fileID: 1011603868151634, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e2e6970f9dbe45743858950d9b85475f, type: 3}
