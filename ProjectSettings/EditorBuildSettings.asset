@@ -6,6 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CIty.unity
-    guid: 1a6f47d61d704f94f910e0240e76d5d0
-  m_configObjects: {}
+    path: Assets/Enviroment/enviroment/Office building/scene/office building.unity
+    guid: cc855a45dc62bb8479a2ca85a707b08a
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f6b301aaaff234bf1b92eeb1af2aa749, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4efe5bf889b6d4bdab568e63ddea5677, type: 2}
