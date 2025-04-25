@@ -5,15 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Enviroment/enviroment/Office building/scene/office building.unity
-    guid: cc855a45dc62bb8479a2ca85a707b08a
   - enabled: 1
     path: Assets/POLYGON city pack/scene/DemoScene.unity
     guid: 7759de288f5d4ee449a0ca5e2244944a
-  - enabled: 0
-    path: Assets/office.unity
-    guid: 80c081622ddaf6e44af910841a5f5802
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f6b301aaaff234bf1b92eeb1af2aa749, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4efe5bf889b6d4bdab568e63ddea5677, type: 2}
